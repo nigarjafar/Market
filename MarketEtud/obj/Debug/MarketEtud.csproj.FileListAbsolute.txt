@@ -1,0 +1,6 @@
+c:\users\nigar\documents\visual studio 2015\Projects\MarketEtud\MarketEtud\bin\Debug\MarketEtud.exe.config
+c:\users\nigar\documents\visual studio 2015\Projects\MarketEtud\MarketEtud\bin\Debug\MarketEtud.exe
+c:\users\nigar\documents\visual studio 2015\Projects\MarketEtud\MarketEtud\bin\Debug\MarketEtud.pdb
+c:\users\nigar\documents\visual studio 2015\Projects\MarketEtud\MarketEtud\obj\Debug\MarketEtud.csprojResolveAssemblyReference.cache
+c:\users\nigar\documents\visual studio 2015\Projects\MarketEtud\MarketEtud\obj\Debug\MarketEtud.exe
+c:\users\nigar\documents\visual studio 2015\Projects\MarketEtud\MarketEtud\obj\Debug\MarketEtud.pdb
